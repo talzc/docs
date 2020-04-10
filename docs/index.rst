@@ -1,6 +1,12 @@
 .. include:: ../README.rst
 
 .. toctree::
+   :caption: AWS Lightsail
+   :maxdepth: 2
+
+   aws-lightsail/add-alias-record-for-lightsail-load-balancer
+
+.. toctree::
    :caption: Theme Documentation
    :maxdepth: 2
 
