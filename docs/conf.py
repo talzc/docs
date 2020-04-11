@@ -50,7 +50,7 @@ html_theme_options = {
     'navigation_depth': 5,
 }
 html_theme_path = ["../.."]
-html_logo = "demo/static/KoPi_logo.svg"
+html_logo = "_static/KoPi_logo.svg"
 html_show_sourcelink = True
 
 htmlhelp_basename = slug
