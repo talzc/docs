@@ -52,8 +52,7 @@ Add an A record in Route 53
 
 7.  For **Alias**, choose **Yes**.
 
-8.  | Go to the Lightsail console and copy the **DNS name** from your
-    load balancer management page.
+8.  | Go to the Lightsail console and copy the **DNS name** from your load balancer management page.
     | |[DNS name on the load balancer management page]|
 
 9.  Go back to the Amazon Route 53 console and paste the DNS name into
