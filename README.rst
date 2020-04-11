@@ -16,6 +16,4 @@ Take a Break from KoPi Documentation
   :alt: Documentation Status
 
 This KoPi Documentation was designed to provide a great reader experience for
-documentation users on both desktop and mobile devices. This theme is used
-primarily on `Read the Docs`_ but can work with any Sphinx project.
-
+documentation users on both desktop and mobile devices. 
