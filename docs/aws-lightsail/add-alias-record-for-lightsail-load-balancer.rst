@@ -27,8 +27,7 @@ If you already have CNAME or other DNS records, choose **Add another**.
 2. For **Sub-domain**, type ``www`` in front of ``example.com`` or don't
    use a prefix if using an apex domain.
 
-3. | For destination IP, choose your load balancer from the list of
-   available load balancers.
+3. | For destination IP, choose your load balancer from the list of available load balancers.
    | |[Choose your load balancer and create an alias (A) record]|
 
 4. Choose **Save**.
