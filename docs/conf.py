@@ -43,8 +43,8 @@ intersphinx_mapping = {
     'rtd': ('https://docs.readthedocs.io/en/latest/', None),
     'sphinx': ('http://www.sphinx-doc.org/en/stable/', None),
 }
-
-html_theme = 'sphinx_rtd_theme'
+html_theme = "sphinx_rtd_theme"
+html_theme_path = ["_themes"]
 html_theme_options = {
     'logo_only': True,
     'navigation_depth': 5,
