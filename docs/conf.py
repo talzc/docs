@@ -52,6 +52,7 @@ html_theme_options = {
 html_theme_path = ["../.."]
 html_logo = "_static/KoPi_logo.svg"
 html_show_sourcelink = True
+html_favicon = '_static/favicon.ico'
 
 htmlhelp_basename = slug
 
