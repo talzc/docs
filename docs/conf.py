@@ -6,7 +6,7 @@ import re
 
 if not 'READTHEDOCS' in os.environ:
     sys.path.insert(0, os.path.abspath('..'))
-sys.path.append(os.path.abspath('./demo/'))
+sys.path.append(os.path.abspath('.'))
 
 from sphinx.locale import _
 from sphinx_rtd_theme import __version__
